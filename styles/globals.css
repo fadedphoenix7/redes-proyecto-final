@@ -1,0 +1,30 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.Code {
+  text-overflow: unset;
+  border: 2px solid rgb(24, 24, 24);
+  border-radius: 15px;
+  background-color: #3a3737;
+  margin: 20px 0 20px 0;
+  padding: 10px;
+  color: #efefef;
+}
+
+.CommentCode {
+  color:rgb(108, 190, 122);
+}
